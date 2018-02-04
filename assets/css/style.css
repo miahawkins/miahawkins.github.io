@@ -1,5 +1,5 @@
 body {
-	background-image: url("http://www.bloodassurance.org/wp-content/uploads/2015/06/gray-background1.png");
+	background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/12/Grey-Floral-Pattern-for-Website-Background.jpg");
 	
 }
 
@@ -7,22 +7,6 @@ body {
 	background-color: #ffffff;
 	width: 100%;
 
-}
-
-header {
-	position: fixed;
-	top: 0;
-	left: 5;
-	background-color: #4aaaa5;
-	font-size: 32px;
-	font-family: 'Georgia', Times, Times New Roman, serif;
-	color: #ffffff;
-	padding: 29px;
-	float: left;
-	font: bold;
-	width: 15%;
-	text-align: center;
-	margin-left: 10%;
 }
 
 #topButtons {
@@ -37,6 +21,7 @@ header {
 	float: right;
 	font-size: 22px;
 	clear: both;
+	background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/12/Grey-Floral-Pattern-for-Website-Background.jpg");
 
 }
 
@@ -59,8 +44,9 @@ a:link {
 h1 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color: #4aaaa5;
-	font-size: 28px;
+	font-size: 40px;
 	margin-bottom: 1px;
+	text-shadow: 2px 2px #a8aaad;
 }
 
 
@@ -91,51 +77,6 @@ p {
 	height: 20px
 	font-size: 14px;
 }
-.bannerRight {
-	background-color: #4aaaa5;
-	padding: 18px;
-	color: #ffffff;
-	text-align: center;
-	width: 265px;
-	height: 20px
-	font-size: 14px;
-	float: right;
-	clear: both;
-}
-
-#hangman {
-	padding: 20px;
-	float: left;
-	clear: both;
-}
-
-#rpgGame {
-	padding: 20px;
-}
-
-#trivaGame {
-	padding: 20px;
-	float: left;
-	clear: both;
-}
-
-#rutgers {
-	padding: 20px;
-}
-
-#rpsGame {
-	padding: 20px;
-}
-
-#box2 {
-	background-color: #ffffff;
-	width: 20%;
-	float: right;
-	text-align: center;
-	padding: 10px;
-	margin-right: 10%;
-	margin-top: 3%;
-}
 
 h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
@@ -144,29 +85,12 @@ h2 {
 	margin-bottom: 1px;
 }
 
-form {
+h3 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	color: #777777;
-	font-size: 28px;
+	color: #4aaaa5;
+	font-size: 16px;
+	margin-bottom: 1px;
 }
-
-input {
-	width: 100%;
-	padding: 12px 0px;
-}
-
-#submit {
-	width: 15%;
-	background-color: #4aaaa5;
-	color: #ffffff;
-	font-size: 15px;
-}
-
-.icons {
-	width: 25%;
-	height: 25%;
-}
-
 footer {
 	clear: both;
 	background-color: #666666;
